@@ -12,10 +12,11 @@
 
 ***
 **Supported Devices:**
-* *iPhone XS*
-* *Phone XS Max*
-* *iPhone XR*
+
 * *Iphone 13 Pro Max *
 * *Iphone 11 Pro*
 * *Iphone 6 (All Versions)*
 * *Iphone 7 (All Versions*
+* *iPhone XS*
+* *Phone XS Max*
+* *iPhone XR*
